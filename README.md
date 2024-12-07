@@ -12,7 +12,6 @@
 
 <div align="center">
 
-🔭 I’m currently working on [IkaroScrapper](https://t.me/IkaroScrapper) - I’m currently working on [IkaroChk](https://t.me/IkaroInfo) - I’m currently working on [TaigaScrapper](https://t.me/TaigaLogsScrapper) 🔭
 </div>
 
 <p align="left">
