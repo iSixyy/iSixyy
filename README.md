@@ -4,7 +4,7 @@
 <div align="center">
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1051448817947521105
-                            )](https://discord.com/users/1051448817947521105)
+                            )](https://api.lanyard.rest/v1/users/1051448817947521105) 
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=isixyy&label=Profile%20views&color=0e75b6&style=flat" alt="isixyy" /> </p>
